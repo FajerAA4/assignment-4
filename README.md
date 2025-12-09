@@ -74,7 +74,7 @@ A full log of prompts, AI outputs, edits, and learning outcomes is available in:
 📄 `docs/ai-usage-report.md`
 
 ## Live Deployment 
-
+`https://fajeraa4.github.io/assignment-4/`
 ## Presentation Materials
 
 Slides are available in:
